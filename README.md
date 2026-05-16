@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Mohamed%20%7C%20Frontend%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 
 <h3 align="center">
