@@ -53,36 +53,43 @@ Développeur Frontend en progression 🚀
 </p>
 
 ---
-
 <h2 align="center">📂 Projets Frontend Mentor</h2>
 
 <p align="center">
 
-<a href="https://github.com/MoDev228">
-<img src="https://img.shields.io/badge/Newbie-Blog_Preview_Card-38BDF8?logo=frontendmentor&logoColor=white"></a>
-
-<a href="https://github.com/MoDev228">
-<img src="https://img.shields.io/badge/Newbie-Social_Links_Profile-38BDF8?logo=frontendmentor&logoColor=white"></a>
-
-<a href="https://github.com/MoDev228">
-<img src="https://img.shields.io/badge/Newbie-Recipe_Page-38BDF8?logo=frontendmentor&logoColor=white"></a>
-
-<br>
-
-<a href="https://github.com/MoDev228">
+<a href="https://modev228.github.io/stats-preview-card-component-main/">
 <img src="https://img.shields.io/badge/Newbie-Stats_Preview_Card-38BDF8?logo=frontendmentor&logoColor=white"></a>
 
-<a href="https://github.com/MoDev228">
+<a href="https://modev228.github.io/social-proof-section-master/">
+<img src="https://img.shields.io/badge/Newbie-Social_Proof_Section-38BDF8?logo=frontendmentor&logoColor=white"></a>
+
+<a href="https://modev228.github.io/social-links-profile-main/">
+<img src="https://img.shields.io/badge/Newbie-Social_Links_Profile-38BDF8?logo=frontendmentor&logoColor=white"></a>
+
+
+<a href="https://modev228.github.io/single-price-grid-component-master-solution/">
+<img src="https://img.shields.io/badge/Newbie-Single_Price_Grid-38BDF8?logo=frontendmentor&logoColor=white"></a>
+
+<a href="https://modev228.github.io/results-summary-component-main/">
+<img src="https://img.shields.io/badge/Newbie-Results_Summary_Component-38BDF8?logo=frontendmentor&logoColor=white"></a>
+
+<a href="https://modev228.github.io/four-card-feature-section-master/">
+<img src="https://img.shields.io/badge/Newbie-Four_Card_Feature_Section-38BDF8?logo=frontendmentor&logoColor=white"></a>
+
+
+<a href="https://modev228.github.io/3-column-preview-card-component-main/">
+<img src="https://img.shields.io/badge/Newbie-3_Column_Preview_Card-38BDF8?logo=frontendmentor&logoColor=white"></a>
+
+<a href="https://modev228.github.io/product-preview-card-component-main/">
 <img src="https://img.shields.io/badge/Newbie-Product_Preview_Card-38BDF8?logo=frontendmentor&logoColor=white"></a>
 
-</p>
+<a href="https://modev228.github.io/order-summary-component-main/">
+<img src="https://img.shields.io/badge/Newbie-Order_Summary_Component-38BDF8?logo=frontendmentor&logoColor=white"></a>
 
----
 
-<h2 align="center">📚 En cours d’apprentissage</h2>
+<a href="https://modev228.github.io/profile-card-component-main/">
+<img src="https://img.shields.io/badge/Newbie-Profile_Card_Component-38BDF8?logo=frontendmentor&logoColor=white"></a>
 
-<p align="center">
-Responsive Design • Flexbox • CSS Grid • Tailwind CSS • Workflow Git • JavaScript
 </p>
 
 ---
@@ -134,7 +141,7 @@ Responsive Design • Flexbox • CSS Grid • Tailwind CSS • Workflow Git •
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MoDev228&style=flat-square&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=MoDev228&label=Profile%20Views&color=38BDF8&style=for-the-badge"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
