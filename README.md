@@ -60,38 +60,50 @@ Développeur Frontend en progression ... incha’Allah
 
 <p align="center">
 
-<a href="https://modev228.github.io/stats-preview-card-component-main/">
+<a href="https://github.com/MoDev228/stats-preview-card-component-main">
 <img src="https://img.shields.io/badge/Newbie-Stats_Preview_Card-38BDF8?logo=frontendmentor&logoColor=white"></a>
 
-<a href="https://modev228.github.io/social-proof-section-master/">
+<a href="https://github.com/MoDev228/social-proof-section-master">
 <img src="https://img.shields.io/badge/Newbie-Social_Proof_Section-38BDF8?logo=frontendmentor&logoColor=white"></a>
 
-<a href="https://modev228.github.io/social-links-profile-main/">
+<a href="https://github.com/MoDev228/social-links-profile-main">
 <img src="https://img.shields.io/badge/Newbie-Social_Links_Profile-38BDF8?logo=frontendmentor&logoColor=white"></a>
 
-
-<a href="https://modev228.github.io/single-price-grid-component-master-solution/">
+<a href="https://github.com/MoDev228/single-price-grid-component-master-solution">
 <img src="https://img.shields.io/badge/Newbie-Single_Price_Grid-38BDF8?logo=frontendmentor&logoColor=white"></a>
 
-<a href="https://modev228.github.io/results-summary-component-main/">
+<a href="https://github.com/MoDev228/results-summary-component-main">
 <img src="https://img.shields.io/badge/Newbie-Results_Summary_Component-38BDF8?logo=frontendmentor&logoColor=white"></a>
 
-<a href="https://modev228.github.io/four-card-feature-section-master/">
+<a href="https://github.com/MoDev228/four-card-feature-section-master">
 <img src="https://img.shields.io/badge/Newbie-Four_Card_Feature_Section-38BDF8?logo=frontendmentor&logoColor=white"></a>
 
-
-<a href="https://modev228.github.io/3-column-preview-card-component-main/">
+<a href="https://github.com/MoDev228/3-column-preview-card-component-main">
 <img src="https://img.shields.io/badge/Newbie-3_Column_Preview_Card-38BDF8?logo=frontendmentor&logoColor=white"></a>
 
-<a href="https://modev228.github.io/product-preview-card-component-main/">
+<a href="https://github.com/MoDev228/product-preview-card-component-main">
 <img src="https://img.shields.io/badge/Newbie-Product_Preview_Card-38BDF8?logo=frontendmentor&logoColor=white"></a>
 
-<a href="https://modev228.github.io/order-summary-component-main/">
+<a href="https://github.com/MoDev228/order-summary-component-main">
 <img src="https://img.shields.io/badge/Newbie-Order_Summary_Component-38BDF8?logo=frontendmentor&logoColor=white"></a>
 
-
-<a href="https://modev228.github.io/profile-card-component-main/">
+<a href="https://github.com/MoDev228/profile-card-component-main">
 <img src="https://img.shields.io/badge/Newbie-Profile_Card_Component-38BDF8?logo=frontendmentor&logoColor=white"></a>
+
+<a href="https://github.com/MoDev228/challenge-nft-preview-card-component-main">
+<img src="https://img.shields.io/badge/Newbie-NFT_Preview_Card-38BDF8?logo=frontendmentor&logoColor=white"></a>
+
+<a href="https://github.com/MoDev228/Challenge-FrtM-Huddle-landing-page">
+<img src="https://img.shields.io/badge/Newbie-Huddle_Landing_Page-38BDF8?logo=frontendmentor&logoColor=white"></a>
+
+<a href="https://github.com/MoDev228/Challenge-FrtM-Simple-Omelette-Recipe">
+<img src="https://img.shields.io/badge/Newbie-Simple_Omelette_Recipe-38BDF8?logo=frontendmentor&logoColor=white"></a>
+
+<a href="https://github.com/MoDev228/Challenge-FrtM-Blog-preview-card">
+<img src="https://img.shields.io/badge/Newbie-Blog_Preview_Card-38BDF8?logo=frontendmentor&logoColor=white"></a>
+
+<a href="https://github.com/MoDev228/qr-code">
+<img src="https://img.shields.io/badge/Newbie-QR_Code_Component-38BDF8?logo=frontendmentor&logoColor=white"></a>
 
 </p>
 
