@@ -36,8 +36,7 @@ Développeur Frontend en progression ... incha’Allah
 - 📚 J’apprends principalement à travers des documentations, des projets pratiques et des challenges.
 
 <br clear="all">
-
----
+<br clear="all">
 
 <h2 align="center">🛠️ Stack & Outils</h2>
 
@@ -53,8 +52,11 @@ Développeur Frontend en progression ... incha’Allah
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
 </p>
 
----
+<br clear="all">
+<br clear="all">
 <h2 align="center">Mes Projets Frontend Mentor</h2>
+
+<p align="center">niveau Newbie</p>
 
 <p align="center">
 
@@ -93,7 +95,8 @@ Développeur Frontend en progression ... incha’Allah
 
 </p>
 
----
+<br clear="all">
+<br clear="all">
 
 <h2 align="center">GitHub Streak</h2>
 
@@ -101,7 +104,8 @@ Développeur Frontend en progression ... incha’Allah
   <img src="https://streak-stats.demolab.com?user=MoDev228&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<br clear="all">
+<br clear="all">
 
 <h2 align="center">Activité GitHub</h2>
 
@@ -109,7 +113,8 @@ Développeur Frontend en progression ... incha’Allah
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoDev228&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
+<br clear="all">
+<br clear="all">
 <h2 align="center">Me retrouver</h2>
 
 <p align="center">
