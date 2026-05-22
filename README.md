@@ -17,7 +17,7 @@ Développeur Frontend en progression ... incha’Allah
 
 <img align="right" width="230" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-- 🌱 J’apprends actuellement :
+- J’apprends actuellement :
   - HTML5
   - CSS3
   - SASS / SCSS
@@ -54,7 +54,7 @@ Développeur Frontend en progression ... incha’Allah
 </p>
 
 ---
-<h2 align="center">📂 Projets Frontend Mentor</h2>
+<h2 align="center">Mes Projets Frontend Mentor</h2>
 
 <p align="center">
 
@@ -95,7 +95,7 @@ Développeur Frontend en progression ... incha’Allah
 
 ---
 
-<h2 align="center">📊 Statistiques GitHub</h2>
+<h2 align="center">Statistiques GitHub</h2>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoDev228&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=10"/>
@@ -107,7 +107,7 @@ Développeur Frontend en progression ... incha’Allah
 
 ---
 
-<h2 align="center">🔥 GitHub Streak</h2>
+<h2 align="center">GitHub Streak</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MoDev228&theme=tokyonight&hide_border=true"/>
@@ -115,14 +115,14 @@ Développeur Frontend en progression ... incha’Allah
 
 ---
 
-<h2 align="center">📈 Activité GitHub</h2>
+<h2 align="center">Activité GitHub</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoDev228&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
-<h2 align="center">🌐 Me retrouver</h2>
+<h2 align="center">Me retrouver</h2>
 
 <p align="center">
 
@@ -149,9 +149,9 @@ Développeur Frontend en progression ... incha’Allah
 
 </p>
 
----
+<br></br>
 
-<h2 align="center">⚡ Citation</h2>
+---
 
 <p align="center">
 "Practice. Build. Improve. Repeat."
