@@ -54,7 +54,7 @@ Développeur Frontend en progression ... incha’Allah
 
 <br clear="all">
 <br clear="all">
-<h2 align="center">Mes Projets Frontend Mentor</h2>
+<h2 align="center">Projets Frontend Mentor</h2>
 
 <p align="center">Newbie</p>
 
