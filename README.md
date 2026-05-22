@@ -1,18 +1,19 @@
+<!-- بسم الله الرحمن الرحيم -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=BoCode-BM&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-<h1 align="center">Salut 👋, moi c'est MoDev</h1>
+<p align="center">بسم الله الرحمن الرحيم</p>
+<h1 align="center">Salut, moi c'est MoDev</h1>
 
 <h3 align="center">
-Développeur Frontend en progression 🚀
+Développeur Frontend en progression ... incha’Allah
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=Développeur+Frontend;J’apprends+chaque+jour;HTML+CSS+SASS+Tailwind+JavaScript;Création+d’interfaces+modernes+et+responsives" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Developpeur+Frontend;HTML+%7C+CSS+%7C+SASS+%7C+Tailwind+CSS;Interfaces+modernes+et+responsives;Apprentissage+continu+et+projets+pratiques" />
 </p>
 
 ---
 
-<h2 align="center">💫 À propos de moi</h2>
+<h2 align="center">À propos de moi</h2>
 
 <img align="right" width="230" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
@@ -26,13 +27,13 @@ Développeur Frontend en progression 🚀
   - Vite
 
 - 🎯 Objectif :
-  Devenir développeur frontend professionnel.
+  Devenir développeur full-stack.
 
 - 💻 J’aime créer des interfaces modernes et responsives.
 
 - 🐧 Utilisateur Linux + passionné de VS Code.
 
-- 📚 J’apprends principalement à travers des projets pratiques et des challenges.
+- 📚 J’apprends principalement à travers des documentations, des projets pratiques et des challenges.
 
 <br clear="all">
 
@@ -97,11 +98,11 @@ Développeur Frontend en progression 🚀
 <h2 align="center">📊 Statistiques GitHub</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoDev228&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoDev228&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=10"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoDev228&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoDev228&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=10"/>
 </p>
 
 ---
@@ -121,13 +122,31 @@ Développeur Frontend en progression 🚀
 </p>
 
 ---
-
 <h2 align="center">🌐 Me retrouver</h2>
 
 <p align="center">
-  <a href="https://github.com/MoDev228">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<a href="https://github.com/BoCode-BM">
+  <img src="https://img.shields.io/badge/GitHub-BoCode--BM-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://gitlab.com/BoCode-BM">
+  <img src="https://img.shields.io/badge/GitLab-BoCode--BM-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</a>
+
+<a href="https://www.frontendmentor.io/profile/MoDev228">
+  <img src="https://img.shields.io/badge/Frontend_Mentor-MoDev228-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white"/>
+</a>
+
+
+<a href="https://codepen.io/BM-CODER-TG">
+  <img src="https://img.shields.io/badge/CodePen-BM--CODER--TG-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+</a>
+
+<a href="https://t.me/DevCodeTech">
+  <img src="https://img.shields.io/badge/Telegram-DevCodeTech-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
 </p>
 
 ---
