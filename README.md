@@ -95,18 +95,6 @@ Développeur Frontend en progression ... incha’Allah
 
 ---
 
-<h2 align="center">Statistiques GitHub</h2>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoDev228&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=10"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoDev228&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=10"/>
-</p>
-
----
-
 <h2 align="center">GitHub Streak</h2>
 
 <p align="center">
