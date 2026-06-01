@@ -105,6 +105,9 @@ Développeur Frontend en progression ... incha’Allah
 <a href="https://github.com/MoDev228/qr-code">
 <img src="https://img.shields.io/badge/Newbie-QR_Code_Component-38BDF8?logo=frontendmentor&logoColor=white"></a>
 
+<a href="https://github.com/MoDev228/article-preview-component-master">
+<img src="https://img.shields.io/badge/Newbie-Article_Preview_Component-38BDF8?logo=frontendmentor&logoColor=white"></a>
+
 </p>
 
 <br clear="all">
