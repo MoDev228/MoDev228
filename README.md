@@ -111,6 +111,9 @@ Développeur Frontend en progression ... incha’Allah
 <a href="https://github.com/MoDev228/faq-accordion-main">
 <img src="https://img.shields.io/badge/Newbie-FAQ_Accordion-38BDF8?logo=frontendmentor&logoColor=white"></a>
 
+<a href="https://github.com/MoDev228/base-apparel-coming-soon-page">
+<img src="https://img.shields.io/badge/Base_Apparel_Coming_Soon-38BDF8?logo=frontendmentor&logoColor=white"></a>
+
 </p>
 
 <br clear="all">
