@@ -25,6 +25,7 @@ Développeur Frontend en progression ... incha’Allah
   - JavaScript
   - Git & GitHub
   - Vite
+  - php
 
 - 🎯 Objectif :
   Devenir développeur full-stack.
@@ -46,10 +47,16 @@ Développeur Frontend en progression ... incha’Allah
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vite" />
 </p>
 
+<p align="center"><b>Backend</b></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vite" />
+</p>
+
 <p align="center"><b>Outils</b></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=php" />
 </p>
 
 <br clear="all">
