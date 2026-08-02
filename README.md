@@ -50,13 +50,13 @@ Développeur Frontend en progression ... incha’Allah
 <p align="center"><b>Backend</b></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vite" />
+  <img src="https://skillicons.dev/icons?i=php" />
 </p>
 
 <p align="center"><b>Outils</b></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,c" />
 </p>
 
 <br clear="all">
