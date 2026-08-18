@@ -155,7 +155,7 @@
   <a href="https://www.frontendmentor.io/profile/MoDev228">
     <img src="https://img.shields.io/badge/Frontend_Mentor-MoDev228-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white"/>
   </a>
-  <a href="https://codepen.io/BM-CODER-TG">
+  <a href="https://codepen.io/modev228">
     <img src="https://img.shields.io/badge/CodePen-BM--CODER--TG-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
   </a>
   <a href="https://t.me/DevCodeTech">
