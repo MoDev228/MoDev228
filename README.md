@@ -21,6 +21,7 @@
 - 🌱 Je développe actuellement mes compétences en :
   - HTML5 • CSS3 • SASS / SCSS
   - JavaScript
+  - Tailwind
   - Programmation orientée objet (POO)
   - MySQL & SQL
   - PHP (bases)
