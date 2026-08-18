@@ -19,12 +19,11 @@
 
 - 📍 Basé à **Lomé, Togo**
 - 🌱 Je développe actuellement mes compétences en :
-  - PHP
-  - Programmation orientée objet (POO)
-  - MySQL & SQL
-  - Composer
   - HTML5 • CSS3 • SASS / SCSS
   - JavaScript
+  - Programmation orientée objet (POO)
+  - MySQL & SQL
+  - PHP (bases)
   - Git & GitHub
   - Vite
   - Linux & Bash
@@ -35,8 +34,6 @@
 - 💻 J'aime concevoir des applications web modernes, structurées et responsives.
 
 - 🗄️ Je m'intéresse particulièrement au développement backend, aux bases de données et à l'architecture des applications.
-
-- 🐧 Environnement de développement : **Linux + VS Code**
 
 - 📚 J'apprends principalement à travers la documentation officielle, les projets pratiques, les exercices et les challenges.
 
