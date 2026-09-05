@@ -162,7 +162,7 @@ const MoDev = {
     <img src="https://img.shields.io/badge/Frontend_Mentor-MoDev228-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white"/>
   </a>
   <a href="https://codepen.io/modev228">
-    <img src="https://img.shields.io/badge/CodePen-BM--CODER--TG-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CodePen-MoDev-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
   </a>
   <a href="https://t.me/DevCodeTech">
     <img src="https://img.shields.io/badge/Telegram-DevCodeTech-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
