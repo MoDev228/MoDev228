@@ -150,11 +150,9 @@ const MoDev = {
 <a href="https://fastfood-psi-hazel.vercel.app/" target="_blank" rel="noopener noreferrer>
 <img src="https://img.shields.io/badge/FastFood-Web_App-38BDF8?logo=vercel&logoColor=white">
 </a>
-
+</p>
 </p>
 
-</p>
----
 
 <h2 align="left">GitHub Stats</h2>
 <p align="center">
