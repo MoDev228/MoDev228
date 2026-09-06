@@ -121,8 +121,39 @@ const MoDev = {
   <img src="https://img.shields.io/badge/Newbie-FAQ_Accordion-38BDF8?logo=frontendmentor&logoColor=white"></a>
   
   <a href="https://github.com/MoDev228/base-apparel-coming-soon-page">
-  <img src="https://img.shields.io/badge/Newbie-Base_Apparel_Coming_Soon-38BDF8?logo=frontendmentor&logoColor=white"></a> </p>
+  <img src="https://img.shields.io/badge/Newbie-Base_Apparel_Coming_Soon-38BDF8?logo=frontendmentor&logoColor=white"></a>
 
+
+  <p align="center">Projets personnels</p>
+
+  <p align="center">
+  <a href="https://github.com/MoDev228/todo-list-js">
+    <img src="https://img.shields.io/badge/JavaScript-Todo_List-38BDF8?logo=javascript&logoColor=white">
+  </a>
+
+  <a href="https://github.com/MoDev228/modev-portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-Web_Portfolio-38BDF8?logo=github&logoColor=white">
+  </a>
+
+  <a href="https://github.com/MoDev228/learning-css-cours">
+  <img src="https://img.shields.io/badge/CSS-Learning_Course-38BDF8?logo=css3&logoColor=white">
+  </a>
+
+<a href="https://github.com/MoDev228/learning-sass-cours">
+<img src="https://img.shields.io/badge/Sass-Learning_Course-38BDF8?logo=sass&logoColor=white">
+</a>
+
+<a href="https://css-shapes-lab.vercel.app/">
+<img src="https://img.shields.io/badge/CSS-CSS_Shapes_Lab-38BDF8?logo=css3&logoColor=white">
+</a>
+
+<a href="https://fastfood-psi-hazel.vercel.app">
+<img src="https://img.shields.io/badge/FastFood-Web_App-38BDF8?logo=vercel&logoColor=white">
+</a>
+
+</p>
+
+</p>
 ---
 
 <h2 align="left">GitHub Stats</h2>
