@@ -156,28 +156,38 @@ const MoDev = {
 
 
 <h2 align="left">GitHub Stats</h2>
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MoDev228&show_icons=true&theme=tokyonight&hide_border=true"
+<img src="https://modev-github-readme-stats.vercel.app/api?username=MoDev228&show_icons=true&theme=tokyonight&hide_border=true"
     height="165"
     alt="GitHub Stats"
   />
+  <img src="https://modev-github-readme-stats.vercel.app/api/top-langs/?username=MoDev228&layout=compact&theme=tokyonight&hide_border=true"
+  height="165"
+  alt="Top Languages"
+  />
 </p>
-  <p align="center">
+<p align="center">
   <img
     src="https://streak-stats.demolab.com?user=MoDev228&theme=tokyonight&hide_border=true"
     height="165"
     alt="GitHub Streak"
   />
 </p>
+<p align="center">
+
+</p>
+
+<h2 align="left">GitHub Activity</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoDev228&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="Top Languages"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MoDev228&theme=tokyo-night"
+    alt="GitHub Activity Graph"
+    width="100%"
   />
 </p>
+
 
 
 ---
