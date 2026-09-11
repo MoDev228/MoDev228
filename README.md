@@ -127,11 +127,11 @@ const MoDev = {
    <p align="center">Projets personnels</p>
 
   <p align="center">
-  <a href="https://todo-list-js-sepia.vercel.app/" target="_blank">
+  <a href="https://todo-list-js-lemon.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-Todo_List-38BDF8?logo=javascript&logoColor=white">
   </a>
 
-  <a href="https://modev-portfolio-six.vercel.app/" target="_blank">
+  <a href="https://modev-rho.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Web_Portfolio-38BDF8?logo=github&logoColor=white">
   </a>
 
