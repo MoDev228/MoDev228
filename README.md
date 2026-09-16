@@ -126,32 +126,34 @@ const MoDev = {
 
    <p align="center">Projets personnels</p>
 
-  <p align="center">
+<p align="center">
   <a href="https://todo-list-js-lemon.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-Todo_List-38BDF8?logo=javascript&logoColor=white">
   </a>
 
   <a href="https://modev-rho.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Web_Portfolio-38BDF8?logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-Web_Portfolio-38BDF8?logo=github&logoColor=white">
   </a>
 
   <a href="https://learning-css-cours.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/CSS-Learning_Course-38BDF8?logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS-Learning_Course-38BDF8?logo=css3&logoColor=white">
   </a>
 
-<a href="https://modev228.github.io/learning-sass-cours/" target="_blank">
-<img src="https://img.shields.io/badge/Sass-Learning_Course-38BDF8?logo=sass&logoColor=white">
-</a>
+  <a href="https://modev228.github.io/learning-sass-cours/" target="_blank">
+    <img src="https://img.shields.io/badge/Sass-Learning_Course-38BDF8?logo=sass&logoColor=white">
+  </a>
 
-<a href="https://css-shapes-lab.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/CSS-CSS_Shapes_Lab-38BDF8?logo=css3&logoColor=white">
-</a>
+  <a href="https://css-shapes-lab.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/CSS-CSS_Shapes_Lab-38BDF8?logo=css3&logoColor=white">
+  </a>
 
-<a href="https://fastfood-psi-hazel.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/FastFood-Web_App-38BDF8?logo=vercel&logoColor=white">
-</a>
-</p>
+  <a href="https://fastfood-psi-hazel.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/FastFood-Web_App-38BDF8?logo=vercel&logoColor=white">
+  </a>
 
+  <a href="https://calculator-khaki-theta.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-Calculator-38BDF8?logo=javascript&logoColor=white">
+  </a>
 </p>
 
 
