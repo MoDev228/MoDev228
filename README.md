@@ -129,35 +129,35 @@ const MoDev = {
 
 <p align="center">
   <a href="https://php-contact-form-bpyn.onrender.com/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/PHP-Form%20Contact-38BDF8?logo=php&logoColor=white" alt="PHP Form Contact">
+      <img src="https://img.shields.io/badge/-PHP%20Form%20Contact-38BDF8?style=flat-square&logo=php&logoColor=white" alt="PHP Form Contact"/>
   </a>
   
   <a href="https://todo-list-js-lemon.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-Todo_List-38BDF8?logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/-JavaScript%20Todo%20List-38BDF8?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript Todo List"/>
   </a>
 
   <a href="https://modev-rho.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Web_Portfolio-38BDF8?logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/-Web%20Portfolio-38BDF8?style=flat-square&logo=vercel&logoColor=white" alt="Web Portfolio"/>
   </a>
 
   <a href="https://learning-css-cours.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/CSS-Learning_Course-38BDF8?logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/-CSS%20Learning%20Course-38BDF8?style=flat-square&logo=css3&logoColor=white" alt="CSS Learning Course"/>
   </a>
 
   <a href="https://modev228.github.io/learning-sass-cours/" target="_blank">
-    <img src="https://img.shields.io/badge/Sass-Learning_Course-38BDF8?logo=sass&logoColor=white">
+    <img src="https://img.shields.io/badge/-Sass%20Learning%20Course-38BDF8?style=flat-square&logo=sass&logoColor=white" alt="Sass Learning Course"/>
   </a>
 
   <a href="https://css-shapes-lab.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/CSS-CSS_Shapes_Lab-38BDF8?logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/-CSS%20Shapes%20Lab-38BDF8?style=flat-square&logo=css3&logoColor=white" alt="CSS Shapes Lab"/>
   </a>
 
   <a href="https://fastfood-psi-hazel.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/FastFood-Web_App-38BDF8?logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/-React%20FastFood%20Web%20App-38BDF8?style=flat-square&logo=react&logoColor=white" alt="React FastFood Web App"/>
   </a>
 
   <a href="https://calculator-khaki-theta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-Calculator-38BDF8?logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/-JavaScript%20Calculator-38BDF8?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript Calculator"/>
   </a>
 </p>
 
