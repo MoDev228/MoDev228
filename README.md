@@ -188,11 +188,7 @@ const MoDev = {
 <h2 align="left">GitHub Activity</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MoDev228&theme=tokyo-night"
-    alt="GitHub Activity Graph"
-    width="100%"
-  />
+<img src="https://github-readme-activity-graph-nine-ebon.vercel.app/graph?username=Modev228&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=0f2744&hide_border=true&border_radius=10" width="95%" alt="Activity Graph" />
 </p>
 
 
