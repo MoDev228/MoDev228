@@ -1,5 +1,5 @@
 <!-- بسم الله الرحمن الرحيم -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=MoDev&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Mohamed%20BOUKARI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <p align="center">بسم الله الرحمن الرحيم</p>
 
