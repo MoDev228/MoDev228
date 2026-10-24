@@ -163,6 +163,10 @@ const MoDev = {
   <a href="https://github.com/MoDev228/player-mp3" target="_blank">
     <img src="https://img.shields.io/badge/React-Quran_MP3-38BDF8?logo=react&logoColor=white">
   </a>
+
+  <a href="https://github.com/MoDev228/fast-food" target="_blank">
+    <img src="https://img.shields.io/badge/React-Fast_Food-38BDF8?logo=react&logoColor=white">
+  </a>
 </p>
 
 
