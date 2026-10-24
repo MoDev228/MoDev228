@@ -159,24 +159,12 @@ const MoDev = {
   <a href="https://calculator-khaki-theta.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-Calculator-38BDF8?logo=javascript&logoColor=white">
   </a>
-</p>
-
-
-<h3 align="left">Quran - MP3</h3>
-
-<p align="left">
-  <a href="https://github.com/MoDev228/player-mp3">
-    <img src="https://img.shields.io/badge/React-PWA%20Coran-38BDF8?style=flat-square&logo=react&logoColor=white" alt="Quran - MP3 — dépôt GitHub">
+  
+  <a href="https://github.com/MoDev228/player-mp3" target="_blank">
+    <img src="https://img.shields.io/badge/React-Quran_MP3-38BDF8?logo=react&logoColor=white">
   </a>
 </p>
 
-<p align="left">Lecteur du Coran avec texte arabe, récitation audio en français et mise en cache des sourates pour l’écoute hors connexion.</p>
-
-<p align="center">
-  <a href="https://github.com/MoDev228/player-mp3">
-    <img src="https://raw.githubusercontent.com/MoDev228/player-mp3/main/public/images/picture.png" width="80%" alt="Aperçu de Quran - MP3">
-  </a>
-</p>
 
 <h2 align="left">GitHub Stats</h2>
 
